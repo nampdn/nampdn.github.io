@@ -9,7 +9,7 @@ If testing is optional in development, then bugging is a requirement in producti
 
 <p align="center">
     <img src="./unit-testing.jpg" alt="Unit testing with Jest">
-    <em>Photo by Glenn Carstens-Peters on Unsplash</em>
+    <em>Photo by <a href="https://unsplash.com/photos/RLw-UC03Gwc">Glenn Carstens-Peters on Unsplash</a></em>
 </p>
 
 # Why testing?
