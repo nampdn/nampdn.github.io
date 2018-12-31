@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Nam Pham",
-  headerSubTitle: "Christian Full-stack Developer",
+  headerSubTitle: "Fullstack Developer",
 
   /* manifest.json */
   manifestName: "nampdn",
