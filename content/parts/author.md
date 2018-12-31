@@ -2,4 +2,4 @@
 title: author
 ---
 
-**Mr. Gatsby** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**Nam Pham** Self-taught developer from 16, I believe in Jesus Christ who are God made flesh, HE love and died for my sins. My passion is using programming skill to spread out the Gospel and reflect the glory of God by loving people.
