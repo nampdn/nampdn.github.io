@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: "Phạm Dương Nhật Nam", // <title>
+  siteTitle: "Nam Pham", // <title>
   shortSiteTitle: "nampdn", // <title> ending for posts and pages
   siteDescription: "Christian Developer who want to Write For Christ",
   siteUrl: "https://nampdn.com",
@@ -13,7 +13,7 @@ module.exports = {
 
   /* info */
   headerTitle: "Nam Pham",
-  headerSubTitle: "Fullstack Developer",
+  headerSubTitle: "Just Another Developer",
 
   /* manifest.json */
   manifestName: "nampdn",
