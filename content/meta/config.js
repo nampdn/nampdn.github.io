@@ -27,8 +27,8 @@ module.exports = {
   // Use your Gravatar image. If empty then will use src/images/jpg/avatar.jpg
   // Replace your email adress with md5-code.
   // Example https://www.gravatar.com/avatar/g.strainovic@gmail.com ->
-  // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6",
-  gravatarImgMd5: "e819b280890bd6b81ce18c0c5ba08bd9",
+  // gravatarImgMd5: "https://www.gravatar.com/avatar/1db853e4df386e8f699e4b35505dd8c6t",
+  gravatarImgMd5: "https://www.gravatar.com/avatar/e819b280890bd6b81ce18c0c5ba08bd9",
 
   // social
   authorSocialLinks: [
