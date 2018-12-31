@@ -106,7 +106,7 @@
     "postcss-text-remove-gap": "1.1.1",
     "postcss-utilities": "0.8.0",
     "precss": "3.1.2",
-    "prettier": "1.13.7",
+    "prettier": "1.15.3",
     "serve": "9.6.0",
     "sharp-cli": "1.7.2",
     "stylelint": "9.3.0",
