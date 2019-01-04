@@ -105,7 +105,7 @@
     "postcss-sorting": "4.0.1",
     "postcss-text-remove-gap": "1.1.1",
     "postcss-utilities": "0.8.0",
-    "precss": "3.1.2",
+    "precss": "4.0.0",
     "prettier": "1.15.3",
     "serve": "10.1.1",
     "sharp-cli": "1.7.2",
