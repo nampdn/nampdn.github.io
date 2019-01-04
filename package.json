@@ -95,7 +95,7 @@
     "postcss": "7.0.7",
     "postcss-cli": "5.0.1",
     "postcss-cssnext": "3.1.0",
-    "postcss-custom-properties": "7.0.0",
+    "postcss-custom-properties": "8.0.9",
     "postcss-custom-selectors": "4.0.1",
     "postcss-easy-media-query": "1.0.0",
     "postcss-load-plugins": "2.3.0",
