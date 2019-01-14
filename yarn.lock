@@ -13743,10 +13743,10 @@ react-obfuscate@2.1.4:
   resolved "https://registry.yarnpkg.com/react-obfuscate/-/react-obfuscate-2.1.4.tgz#ae647207c1a8241b83b6a284a82870260a2298b6"
   integrity sha512-VAkP0phf4DHQzanUHuT8YAQCIIcHsVKaDJHBF9MaXp5vX5qdhxESI5zdCiXgm+taWoIvCp0QsB4hEaiuU4chBw==
 
-react-share@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/react-share/-/react-share-2.2.0.tgz#49fa2525409a030d94375f8b9926b0db916c3049"
-  integrity sha512-EPLmPnOWWqcXr9mlAImly2Gh7Cjbvbe10l3XXEuLFquoJQyc1axgMjOk8ie7YOxdo4iCSjj6zL5U0mIUBsu+aA==
+react-share@2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/react-share/-/react-share-2.4.0.tgz#e033316760cfe3265bf0cb031373a7564dbf92f5"
+  integrity sha512-PlVs9Z0/ma0LDaVOPC9uWEysucoL2OOnBEFu7m4TjFMiS42KmHDTW9k9L4LOCCpxiHemfrg/EkzHuU2YXJHn8g==
   dependencies:
     babel-runtime "^6.6.1"
     classnames "^2.2.5"
