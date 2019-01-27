@@ -10571,7 +10571,7 @@ nan@^2.11.0:
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.11.0.tgz#574e360e4d954ab16966ec102c0c049fd961a099"
   integrity sha512-F4miItu2rGnV2ySkXOQoA8FKz/SR2Q2sWP0sbTxNxz/tuokeC8WxOhPMcwi0qIyGtVn/rrSeLbvVkznqCdwYnw==
 
-nan@^2.11.1:
+nan@^2.12.1:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.12.1.tgz#7b1aa193e9aa86057e3c7bbd0ac448e770925552"
   integrity sha512-JY7V6lRkStKcKTvHO5NVSQRv+RV+FIL5pvDoLiAtSL9pKlC5x9PKQcZDsq7m4FO4d57mkhC6Z+QhAh3Jdk5JFw==
@@ -15177,27 +15177,27 @@ shallowequal@^1.0.1, shallowequal@^1.0.2:
   resolved "https://registry.yarnpkg.com/shallowequal/-/shallowequal-1.0.2.tgz#1561dbdefb8c01408100319085764da3fcf83f8f"
   integrity sha512-zlVXeVUKvo+HEv1e2KQF/csyeMKx2oHvatQ9l6XjCUj3agvC8XGf6R9HvIPDSmp8FNPvx7b5kaEJTRi7CqxtEw==
 
-sharp-cli@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/sharp-cli/-/sharp-cli-1.8.0.tgz#fc35497ea2f978081b7c823f4a3e225875bf3d04"
-  integrity sha512-QdPm4ydsajOEmEdz9vzVMMd2uy44XUBEyvgVQ7cqdkNFFX8qYh0OJOr5icw99qTcHzhWGs37ybbM/mJasRGUcA==
+sharp-cli@1.9.0:
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/sharp-cli/-/sharp-cli-1.9.0.tgz#b675486ca72ded170bd51fb591bd98db1cc2c5ee"
+  integrity sha512-Wohq8r4m87KWKH4PbHmVY7JtKsXdRUrYh0eGpQsfmT+ajCe4qR8aKEAlI/m0dTZZ/1ieY8q09tTVXUV0cHlBlQ==
   dependencies:
     bubble-stream-error "1.0.x"
     multiyargs "1.0.x"
-    sharp "0.21.1"
+    sharp "0.21.3"
     url-template "2.0.x"
     yargs "12.0.x"
 
-sharp@0.21.1:
-  version "0.21.1"
-  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.21.1.tgz#21e3f3a4271039b0e95ac3c58baea475ee6fb661"
-  integrity sha512-XPRi/nosSHk2GG6Zl+uquJ8vZ+00TpNjzrSKah4DGBHYXRxw7nixBBBewJtw3jetUJi0Oaw/n6AO3/myDVVqFg==
+sharp@0.21.3:
+  version "0.21.3"
+  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.21.3.tgz#381937de66c123687f2ac7186f85921c6bb19cdd"
+  integrity sha512-5qZk8r+YgfyztLEKkNez20Wynq/Uh1oNyP5T/3gTYwt2lBYGs9iDs5m0yVsZEPm8eVBbAJhS08J1wp/g+Ai1Qw==
   dependencies:
     bindings "^1.3.1"
     color "^3.1.0"
     detect-libc "^1.0.3"
     fs-copy-file-sync "^1.1.1"
-    nan "^2.11.1"
+    nan "^2.12.1"
     npmlog "^4.1.2"
     prebuild-install "^5.2.2"
     semver "^5.6.0"
