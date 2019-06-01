@@ -47,7 +47,7 @@
     "react-share": "2.2.0",
     "react-visibility-sensor": "5.0.2",
     "styled-jsx": "2.2.7",
-    "styled-jsx-plugin-postcss": "2.0.0",
+    "styled-jsx-plugin-postcss": "2.0.1",
     "styled-jsx-plugin-stylelint": "0.1.0",
     "tinycolor2": "1.4.1",
     "typeface-open-sans": "0.0.54",
