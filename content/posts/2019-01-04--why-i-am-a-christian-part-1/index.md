@@ -35,3 +35,5 @@ In my mind, I love my virtual character, I want to prove to the virtual it's me,
 Is it my main life purpose?
 
 Yes, it was!
+
+All of this is just a beginning of HIS PLAN...
