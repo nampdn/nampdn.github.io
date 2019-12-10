@@ -10057,7 +10057,7 @@ lodash@^4.0.0, lodash@^4.11.1, lodash@^4.13.1, lodash@^4.14.0, lodash@^4.15.0, l
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.10.tgz#1b7793cf7259ea38fb3661d4d38b3260af8ae4e7"
   integrity sha512-UejweD1pDoXu+AD825lWwp4ZGtSwgnpZxb3JDViD7StjQz+Nb/6l093lx4OQ0foGWNRoc19mWy7BzL+UAK2iVg==
 
-lodash@^4.17.14:
+lodash@^4.17.14, lodash@^4.17.15:
   version "4.17.15"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
   integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
@@ -18017,10 +18017,10 @@ webpack-assets-manifest@^3.0.2:
     tapable "^1.0.0"
     webpack-sources "^1.0.0"
 
-webpack-bundle-analyzer@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.yarnpkg.com/webpack-bundle-analyzer/-/webpack-bundle-analyzer-3.3.2.tgz#3da733a900f515914e729fcebcd4c40dde71fc6f"
-  integrity sha512-7qvJLPKB4rRWZGjVp5U1KEjwutbDHSKboAl0IfafnrdXMrgC0tOtZbQD6Rw0u4cmpgRN4O02Fc0t8eAT+FgGzA==
+webpack-bundle-analyzer@3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/webpack-bundle-analyzer/-/webpack-bundle-analyzer-3.6.0.tgz#39b3a8f829ca044682bc6f9e011c95deb554aefd"
+  integrity sha512-orUfvVYEfBMDXgEKAKVvab5iQ2wXneIEorGNsyuOyVYpjYrI7CUOhhXNDd3huMwQ3vNNWWlGP+hzflMFYNzi2g==
   dependencies:
     acorn "^6.0.7"
     acorn-walk "^6.1.1"
@@ -18031,7 +18031,7 @@ webpack-bundle-analyzer@3.3.2:
     express "^4.16.3"
     filesize "^3.6.1"
     gzip-size "^5.0.0"
-    lodash "^4.17.10"
+    lodash "^4.17.15"
     mkdirp "^0.5.1"
     opener "^1.5.1"
     ws "^6.0.0"
