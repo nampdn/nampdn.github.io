@@ -13097,13 +13097,13 @@ postcss-unique-selectors@^4.0.0:
     postcss "^6.0.0"
     uniqs "^2.0.0"
 
-postcss-utilities@0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/postcss-utilities/-/postcss-utilities-0.8.1.tgz#fc1ede5b6cd3264efcb06008680390bec19c590e"
-  integrity sha512-VksI5cIodWmPaEw2KERrbj9h2m+/9hZSk7pyXzqkwQoBmC/KGC4LWwEEF90AdEe7XMmEmlmjrJQm12mFkg3i4Q==
+postcss-utilities@0.8.4:
+  version "0.8.4"
+  resolved "https://registry.yarnpkg.com/postcss-utilities/-/postcss-utilities-0.8.4.tgz#1587c77a33b003137db2a900f72808665c4677a0"
+  integrity sha512-Ut4cEjuCMvxd7sA+QWNppLjKcfFUbIT41NsNBfitE/2QX1eMZs5G4HskNxW2L4JE6HhWad91aWVWKKYTZVWx6g==
   dependencies:
-    postcss "^7.0.2"
-    postcss-value-parser "^3.3.0"
+    postcss "^7.0.17"
+    postcss-value-parser "^4.0.0"
 
 postcss-value-parser@^3.0.0, postcss-value-parser@^3.2.3, postcss-value-parser@^3.3.0:
   version "3.3.0"
@@ -13114,6 +13114,11 @@ postcss-value-parser@^3.3.1:
   version "3.3.1"
   resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
   integrity sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==
+
+postcss-value-parser@^4.0.0:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/postcss-value-parser/-/postcss-value-parser-4.0.2.tgz#482282c09a42706d1fc9a069b73f44ec08391dc9"
+  integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
 
 postcss-values-parser@^2.0.0:
   version "2.0.0"
