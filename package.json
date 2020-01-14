@@ -4,7 +4,7 @@
   "author": "nampdn <nampdn@protonmail.com>",
   "license": "MIT",
   "dependencies": {
-    "antd": "3.7.0",
+    "antd": "3.26.7",
     "fontfaceobserver": "2.1.0",
     "gatsby": "2.1.18",
     "gatsby-image": "2.0.30",
