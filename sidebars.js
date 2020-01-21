@@ -7,9 +7,8 @@
 
 module.exports = {
   someSidebar: {
-    Git: ["generate-ssh-key", "doc1", "doc2", "doc3"],
-    Docker: ["generate-ssh-key"],
-    "Node.JS": ["generate-ssh-key"]
-    // Features: ["mdx"]
+    "Getting Started": ["my-cheat-sheet"],
+    Git: ["generating-ssh-key"],
+    Docker: ["why-you-need-docker"]
   }
 };

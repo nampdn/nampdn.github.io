@@ -1,6 +1,6 @@
 module.exports = {
   title: "nampdn",
-  tagline: '"Keep Thinking, Seek Sourcing"',
+  tagline: '"keep kneeing, seek something"',
   url: "https://nampdn.com",
   baseUrl: "/",
   favicon: "img/favicon.ico",
@@ -14,7 +14,7 @@ module.exports = {
         src: "img/logo.svg"
       },
       links: [
-        { to: "docs/doc1", label: "Explore", position: "left" },
+        { to: "docs/my-cheat-sheet", label: "Cheat Sheet", position: "left" },
         { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/nampdn",
@@ -27,25 +27,21 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Explore",
+          title: "Cheat Sheet",
           items: [
             {
-              label: "Style Guide",
-              to: "docs/doc1"
+              label: "Git",
+              to: "docs/generate-ssh-key"
             },
             {
-              label: "Second Doc",
-              to: "docs/doc2"
+              label: "Docker",
+              to: "docs/why-you-need-docker"
             }
           ]
         },
         {
           title: "Projects",
           items: [
-            {
-              label: "VGM TV",
-              href: "https://vgm.tv"
-            },
             {
               label: "DISC Test",
               href: "https://disctest.net"
@@ -79,7 +75,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/facebook/docusaurus/edit/master/website/"
+          editUrl: "https://github.com/nampdn/nampdn/edit/master/website/"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
