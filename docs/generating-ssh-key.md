@@ -4,14 +4,7 @@ title: Generating SSH Key
 sidebar_label: Generating SSH Key
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
-
 Being a software engineer, whether you are a beginner or expert in the development world, you have to generate ssh key over the time.
-
-<!-- <p align="center">
-    <img src="./generate-key.jpg" alt="How to generate SSH key">
-    <em>Photo by unsplash.com</em>
-</p> -->
 
 ## tldr;
 
@@ -44,17 +37,19 @@ From wiki:
 
 ## How to automate it?
 
-I have written an automated script hosted on [IPFS network](https://ipfs.io) and mapped it with my site domain at [https://code.nampdn.com/gen-ssh.sh](https://code.nampdn.com/gen-ssh.sh), you can click on the link to preview the code.
+I have written an automated script hosted on [IPFS network](https://ipfs.io) and mapped it with my site domain at [https://nampdn.com/new-ssh.sh](https://nampdn.com/new-ssh.sh), you can click on the link to preview or download the code.
 
 One line script will help you do all the rest:
 
-[Generate SSH Key Script](/scripts/generate-ssh-key.sh)
+[Generate SSH Key Script](/new-ssh.sh)
 
 ```bash
 curl -Lso- nampdn.com/new-ssh.sh | bash
 ```
 
-I have provide more feature to this script, it's better to copy and paste each line to your terminal because:
+I have provide more feature to this script, it's better than copy and paste each line to your terminal because:
 
+- You're time is more value than you think!
 - Automate above scripts with the copy command.
-- It's automated and short, memorable.
+- Open Github New Page for you to paste the newly generated key.
+- It's short and memorable.
