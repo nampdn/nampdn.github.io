@@ -41,8 +41,6 @@ I have written an automated script hosted on [IPFS network](https://ipfs.io) and
 
 One line script will help you do all the rest:
 
-[Generate SSH Key Script](/new-ssh.sh)
-
 ```bash
 curl -Lso- nampdn.com/new-ssh.sh | bash
 ```
