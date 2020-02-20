@@ -22,7 +22,7 @@ cat ~/.ssh/id_rsa.pub | pbcopy
 
 echo "Newly generated SSH Key copied to clipboard, you can paste it in your Github SSH Keys section!"
 
-URL="https://github.com/settings/ssh/new"
+local URL="https://github.com/settings/ssh/new"
 
 if which xdg-open > /dev/null
 then
@@ -31,5 +31,6 @@ elif which gnome-open > /dev/null
 then
   gnome-open $URL
 elif which open > /dev/null
+then
   open $URL
 fi
